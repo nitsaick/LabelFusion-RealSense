@@ -19,3 +19,9 @@
 [submodule "nvidia-docker"]
 	path = 3rd-party/nvidia-docker
 	url = https://github.com/NVIDIA/nvidia-docker.git
+[submodule "rgbd_launch"]
+	path = catkin_ws/src/rgbd_launch
+	url = https://github.com/ros-drivers/rgbd_launch.git
+[submodule "ddynamic_reconfigure"]
+	path = catkin_ws/src/ddynamic_reconfigure
+	url = https://github.com/pal-robotics/ddynamic_reconfigure.git
