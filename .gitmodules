@@ -1,0 +1,21 @@
+[submodule "LabelFusion"]
+	path = LabelFusion
+	url = https://github.com/RobotLocomotion/LabelFusion.git
+[submodule "librealsense"]
+	path = 3rd-party/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
+[submodule "realsense-ros"]
+	path = catkin_ws/src/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "rgbd_ros_to_lcm"]
+	path = catkin_ws/src/rgbd_ros_to_lcm
+	url = https://github.com/MobileManipulation/rgbd_ros_to_lcm.git
+[submodule "lcm"]
+	path = 3rd-party/lcm
+	url = https://github.com/lcm-proj/lcm.git
+[submodule "pcl"]
+	path = 3rd-party/pcl
+	url = https://github.com/PointCloudLibrary/pcl.git
+[submodule "nvidia-docker"]
+	path = 3rd-party/nvidia-docker
+	url = https://github.com/NVIDIA/nvidia-docker.git
